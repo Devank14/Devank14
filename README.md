@@ -16,4 +16,5 @@ Next.js · TypeScript · Supabase (Postgres + RLS + pgvector) · Tailwind · Ant
 
 ## Say hi
 
+- Personal site → **[devankkaushik.me](https://devankkaushik.me)**
 - Live product → **[nawt.io](https://nawt.io)**
